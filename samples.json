@@ -6,7 +6,7 @@
     "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/tmb_parades.png",
     "description": "Listado de las paradas de Bus que estan dando servicio.",
     "detail": "",
-    "size": 3220,
+    "size": 2703,
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/parades.json",
     "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/config.json"
@@ -18,9 +18,21 @@
     "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/tmb_recorreguts.png",
     "description": "Recorridos de las líneas de Bus, para cada uno de los sentidos del servicio (ida y vuelta), teniendo en cuenta las alteraciones o desvíos del día actual (reales) o no (consolidados).",
     "detail": "",
-    "size": 3220,
+    "size": 210,
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/recorreguts.json",
     "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/config.json"
+  },
+  {
+    "id": "tmb_linies_metro",
+    "label": "Listado de las líneas de metro.",
+    "queryType": "sample",
+    "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_linies_metro/tmb_linies_metro.png",
+    "description": "Listado de las líneas de metro.",
+    "detail": "",
+    "size": 11,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_linies_metro/linies_metro.csv",
+    "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_linies_metro/config.json"
   }
 ]
