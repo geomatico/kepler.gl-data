@@ -11,4 +11,16 @@
     "dataUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/parades.json",
     "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/config.json"
   },
+  {
+    "id": "tmb-recorridos",
+    "label": "Recorridos de las líneas de Bus, para cada uno de los sentidos del servicio (ida y vuelta), teniendo en cuenta las alteraciones o desvíos del día actual (reales) o no (consolidados).",
+    "queryType": "sample",
+    "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/tmb_recorreguts.png",
+    "description": "Recorridos de las líneas de Bus, para cada uno de los sentidos del servicio (ida y vuelta), teniendo en cuenta las alteraciones o desvíos del día actual (reales) o no (consolidados).",
+    "detail": "",
+    "size": 3220,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/recorreguts.json",
+    "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/config.json"
+  }
 ]
