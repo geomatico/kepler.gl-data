@@ -1,6 +1,6 @@
 [
   {
-    "id": "tmb-parades",
+    "id": "tmb_parades",
     "label": "Listado de las paradas de Bus que estan dando servicio.",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/tmb_parades.png",
@@ -12,7 +12,7 @@
     "configUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_parades/config.json"
   },
   {
-    "id": "tmb-recorridos",
+    "id": "tmb_recorridos",
     "label": "Recorridos de las líneas de Bus, para cada uno de los sentidos del servicio (ida y vuelta), teniendo en cuenta las alteraciones o desvíos del día actual (reales) o no (consolidados).",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/geomatico/kepler.gl-data/master/tmb_recorreguts/tmb_recorreguts.png",
